@@ -8,7 +8,7 @@ const items = [
   {
     id: 1,
     color: "from-red-300 to-blue-300",
-    title: "React Commerce",
+    title: "React ecommerce",
     desc:"",
     link:"",
     img: "https://images.pexels.com/photos/18073372/pexels-photo-18073372/free-photo-of-young-man-sitting-in-a-car-on-a-night-street.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
@@ -16,7 +16,7 @@ const items = [
   {
     id: 2,
     color: "from-blue-300 to-violet-300",
-    title: "Next.js ",
+    title: "PharmaConnect ",
     desc:"Platfrom that enables people in algeria to search and find medication through gps postion and by nearby location with a sophiticated system for every Pharamcy",
     img: "https://images.pexels.com/photos/18023772/pexels-photo-18023772/free-photo-of-close-up-of-a-person-holding-a-wristwatch.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
     link: "https://PharmaConnect.com",
